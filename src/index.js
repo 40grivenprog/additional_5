@@ -1,4 +1,4 @@
-module.exports = function check(str, bracketsConfig) 
+module.exports = function check(str, bracketsConfig) {
  var openedBrackets = [];
   var openingBrackets = "";
   var closingBrackets = "";
